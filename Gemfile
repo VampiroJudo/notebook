@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'haml', '~> 4.0', '>= 4.0.7'
-gem 'devise', '~> 4.2'
+gem 'devise'
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 
 
