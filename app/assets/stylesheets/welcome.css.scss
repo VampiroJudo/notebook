@@ -1,7 +1,6 @@
 #banner {
-	left: 0;
-	background-image: url(image_path("back.jpg"));
-	background-size: 100%;
+	background-image: url(image_path("comp2.jpg"));
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
 	width: 100%;
@@ -16,11 +15,10 @@
 			font-size: 3.5rem;
 			margin: 0;
 		}
-	}
 		p {
 			font-size: 1.5rem;
 			margin: 0 0 2.5rem 0;
 			color: rgba(250, 250, 250, 0.5);
-
 		}
+	}
 }
